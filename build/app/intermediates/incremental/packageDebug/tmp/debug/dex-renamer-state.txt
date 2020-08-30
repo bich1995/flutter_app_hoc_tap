@@ -1,4 +1,4 @@
-#Sun Aug 30 18:26:31 JST 2020
+#Sun Aug 30 19:22:09 JST 2020
 base.0=/Users/user/AndroidStudioProjects/app_hoc_tap/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
